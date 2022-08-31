@@ -8,6 +8,10 @@ Remote Circle is a Java-based program that generates N random circles with rando
 * Each circle represented as a Circle object. 
 * All circles stored in a Circle array. 
 
+<p align="center">
+    <img width="400" src="https://user-images.githubusercontent.com/110589752/187682147-33977c08-6e2c-44ef-afc3-1ffc4f3ecd1e.png">
+</p>
+<h5 align="center">Figure 1. Randomly generated 10 and 100 circles</h1>
 
 UML diagram of the Circle class is shown in Figure 2.
 <p align="center">
